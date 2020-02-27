@@ -10,7 +10,7 @@ end
 gem 'rails', '~> 5.1.7'
 gem 'simple_form', '~> 4.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'bcrypt-ruby', '3.0.0', :require => 'bcrypt'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
